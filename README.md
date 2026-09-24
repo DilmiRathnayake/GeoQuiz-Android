@@ -1,4 +1,3 @@
-```markdown
 # GeoQuiz
 
 A simple True/False geography quiz app for Android, built in Java.
@@ -22,22 +21,19 @@ A simple True/False geography quiz app for Android, built in Java.
 - `AppCompatDelegate.setApplicationLocales()` for per-app language switching
 
 ## Project structure
-
-```
 app/src/main/
 ├── AndroidManifest.xml
 ├── java/uk/ac/wlv/geoquiz/
-│   ├── MainActivity.java
-│   └── Question.java
+│ ├── MainActivity.java
+│ └── Question.java
 └── res/
-    ├── layout/activity_main.xml          (portrait)
-    ├── layout-land/activity_main.xml     (landscape)
-    ├── values/
-    │   ├── colors.xml
-    │   └── strings.xml
-    ├── values-si/strings.xml             (Sinhala)
-    └── xml/locales_config.xml
-```
+├── layout/activity_main.xml (portrait)
+├── layout-land/activity_main.xml (landscape)
+├── values/
+│ ├── colors.xml
+│ └── strings.xml
+├── values-si/strings.xml (Sinhala)
+└── xml/locales_config.xml
 
 ## How it works
 
@@ -65,20 +61,15 @@ across the switch.
 ## Getting started
 
 1. Clone the repo:
-   ```
-   git clone https://github.com/<your-username>/GeoQuiz.git
-   ```
 2. Open the folder in Android Studio.
 3. Let Gradle sync, then run on an emulator or device.
 
 ## Requirements
 
 Make sure `app/build.gradle` includes at least:
-```
 implementation "androidx.appcompat:appcompat:1.6.1"
 implementation "com.google.android.material:material:1.12.0"
 implementation "androidx.constraintlayout:constraintlayout:2.1.4"
-```
 And that `Theme.GeoQuiz` in `themes.xml` has a `Theme.MaterialComponents...`
 (or `Theme.Material3...`) parent, since the UI uses Material buttons and cards.
 
@@ -86,4 +77,3 @@ And that `Theme.GeoQuiz` in `themes.xml` has a `Theme.MaterialComponents...`
 
 Dilmi — BSc (Hons) Computer Science (Software Engineering) Top-Up,
 CINEC Campus / University of Wolverhampton.
-```
