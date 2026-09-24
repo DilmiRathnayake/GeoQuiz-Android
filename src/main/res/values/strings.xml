@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="already_answered_toast">You\'ve already answered this question!</string>
+
+    <string name="question_progress_format">Question %1$d of %2$d</string>
+
+    <string name="language_button_si">සිංහල</string>
+    <string name="language_button_en">English</string>
+
+    <string name="question_australia">Australia is a country, and also a continent.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The currency used in Mexico is the Peso.</string>
+    <string name="question_asia">Beijing is the largest city in China, in terms of population.</string>
+
+    <string name="question_space_1">The Sun is a star.</string>
+    <string name="question_space_2">Mars has three moons.</string>
+    <string name="question_space_3">Jupiter is the largest planet in our solar system.</string>
+    <string name="question_space_4">A light-year measures time, not distance.</string>
+    <string name="question_space_5">The Moon produces its own light.</string>
+
+    <string name="success_rate_default">Success rate: 0%</string>
+    <string name="success_rate_format">Success rate: %1$d%%</string>
+</resources>

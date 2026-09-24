@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">හරි</string>
+    <string name="false_button">වැරදි</string>
+    <string name="next_button">ඊළඟ</string>
+    <string name="previous_button">පෙර</string>
+
+    <string name="correct_toast">හරි</string>
+    <string name="incorrect_toast">වැරදි</string>
+    <string name="already_answered_toast">ඔබ මෙම ප්‍රශ්නයට දැනටමත් පිළිතුරු දී ඇත!</string>
+
+    <string name="question_progress_format">ප්‍රශ්නය %1$d / %2$d</string>
+
+    <string name="language_button_si">සිංහල</string>
+    <string name="language_button_en">English</string>
+
+    <string name="question_australia">ඕස්ට්‍රේලියාව රටක් මෙන්ම මහාද්වීපයක් ද වේ.</string>
+    <string name="question_oceans">පැසිෆික් සාගරය අත්ලාන්තික් සාගරයට වඩා විශාලය.</string>
+    <string name="question_mideast">සුවේස් ඇළ රතු මුහුද සහ ඉන්දියානු සාගරය සම්බන්ධ කරයි.</string>
+    <string name="question_africa">නයිල් ගඟේ ප්‍රභවය ඊජිප්තුවේ පිහිටා ඇත.</string>
+    <string name="question_americas">මෙක්සිකෝවේ භාවිත කරන මුදල් ඒකකය පෙසෝ වේ.</string>
+    <string name="question_asia">ජනගහනය අනුව චීනයේ විශාලතම නගරය බීජිං වේ.</string>
+
+    <string name="question_space_1">සූර්යයා තාරකාවකි.</string>
+    <string name="question_space_2">අඟහරු ග්‍රහයාට සඳු තුනක් ඇත.</string>
+    <string name="question_space_3">අපගේ සූර්ය ග්‍රහ මණ්ඩලයේ විශාලතම ග්‍රහයා බ්‍රහස්පති වේ.</string>
+    <string name="question_space_4">ආලෝක වර්ෂයක් මනින්නේ කාලය මිස දුර නොවේ.</string>
+    <string name="question_space_5">චන්ද්‍රයා තමන්ගේම ආලෝකය නිපදවයි.</string>
+
+    <string name="success_rate_default">සාර්ථකත්ව අනුපාතය: 0%</string>
+    <string name="success_rate_format">සාර්ථකත්ව අනුපාතය: %1$d%%</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="quiz_primary">#3F51B5</color>
+    <color name="quiz_primary_dark">#303F9F</color>
+    <color name="quiz_accent">#FF4081</color>
+
+    <color name="quiz_background">#F4F5FB</color>
+    <color name="quiz_card_background">#FFFFFF</color>
+
+    <color name="quiz_text_primary">#1B1D28</color>
+    <color name="quiz_text_secondary">#6B6F80</color>
+
+    <color name="quiz_true_button">#2E7D32</color>
+    <color name="quiz_false_button">#C62828</color>
+</resources>
