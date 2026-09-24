@@ -75,5 +75,5 @@ And that `Theme.GeoQuiz` in `themes.xml` has a `Theme.MaterialComponents...`
 
 ## Author
 
-Dilmi — BSc (Hons) Computer Science (Software Engineering) Top-Up,
+Dilmi Rathnayake — BSc (Hons) Computer Science (Software Engineering) Top-Up,
 CINEC Campus / University of Wolverhampton.
